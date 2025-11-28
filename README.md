@@ -1,4 +1,4 @@
-# EVECD
+# EVE-Config-Shell
 
 一个用于下载和配置EVE-NG的脚本
 
